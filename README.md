@@ -1,11 +1,34 @@
-# InverZen Web v7
+# InverZen Landing Page
 
-Corrección aplicada:
-- Se eliminó la franja aislada de "Orden financiero / Caja / Margen / Cuentas por cobrar / Preparación para financiamiento".
-- Esa franja generaba confusión y demasiado espacio en blanco.
-- Los conceptos importantes ya quedan dentro del hero como chips de confianza.
-- Se redujo el espacio entre el hero y la sección "El problema".
+Landing page profesional para InverZen Capital Ready IA, proyecto orientado a diagnóstico financiero para micro y pequeñas empresas.
 
-Próximo paso:
-- Revisar hero + paso directo a "El problema".
-- Si se aprueba, pasamos a publicación en Cloudflare Pages.
+## Objetivo del proyecto
+
+Presentar una solución digital que ayuda a PYMES a ordenar ventas, costos, gastos, deudas y caja disponible mediante un diagnóstico financiero simple.
+
+## Tecnologías / Herramientas utilizadas
+
+- Diseño web
+- UX Writing
+- Estructura de landing page
+- Formulario de contacto
+- Optimización de contenido para conversión
+- Dominio propio
+
+## Secciones principales
+
+- Inicio
+- Problema
+- Diagnóstico
+- Planes
+- Cómo funciona
+- Solicitud de diagnóstico
+- Transparencia InverZen
+
+## Sitio publicado
+
+https://www.inverzen.cl/
+
+## Estado del proyecto
+
+Proyecto en desarrollo y validación comercial.
